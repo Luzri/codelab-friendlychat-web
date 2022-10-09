@@ -8,6 +8,7 @@
  */
 const config = {
   /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+npm install firebase
 };
 
 export function getFirebaseConfig() {
